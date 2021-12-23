@@ -1,4 +1,4 @@
-# Responsive-website
+# Overview
 Studies
 
 Website developed with simple responsiveness.
